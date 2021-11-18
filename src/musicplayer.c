@@ -15,7 +15,7 @@
 // BPM is specified above with any song packs.
 // (For future reference, please include a way to play 32nds. It might also be worth converting int duration to float duration since it would give us more granular control over the divisions.)
 
-
+//
 
 // Harris's Tune, uncomment for something boring.
 
@@ -172,5 +172,6 @@ void musicplayer(int pitches[], int durations[], double bpm)
 
 void main(void)
 {
+    printf(NL);
     musicplayer(pitch, duration, bpm);
 };

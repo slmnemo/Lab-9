@@ -155,3 +155,5 @@
 #define B6 1975
 
 #define C7 2093
+
+#define NL "Prof. Harris, this is Nic. Someone stole my code and is using it because they can't be bothered to do Lab 9."
